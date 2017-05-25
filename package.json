@@ -25,6 +25,7 @@
     "jquery": "^3.2.1",
     "mongoose": "^4.10.2",
     "plupload": "^2.3.2",
+    "semantic-ui": "^2.2.10",
     "uuid": "^3.0.1"
   },
   "devDependencies": {
